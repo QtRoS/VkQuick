@@ -1,0 +1,55 @@
+{
+   "msgAudio": {
+      "description": "Music",
+      "message": "My Music"
+   },
+   "msgContMenuOpenLink": {
+      "description": "I command you - open link in new window...",
+      "message": "I command you - open link in new window..."
+   },
+   "msgContMenuTranslate": {
+      "description": "Translate [FOR RUS ONLY]",
+      "message": "Translate [FOR RUS ONLY]"
+   },
+   "msgDefTitle": {
+      "description": "Click to see quick launch panel!",
+      "message": "Click to see quick launch panel!"
+   },
+   "msgDescr": {
+      "description": "This extension allows you to quickly open the required page of the vk.com, to open forbidden links and much more!",
+      "message": "This extension allows you to quickly open the required page of the vk.com, to open forbidden links and much more!"
+   },
+   "msgDocs": {
+      "description": "Documents",
+      "message": "My Documents"
+   },
+   "msgFeed": {
+      "description": "Feed",
+      "message": "My News"
+   },
+   "msgFriends": {
+      "description": "Friends",
+      "message": "My Friends"
+   },
+   "msgIm": {
+      "description": "IM",
+      "message": "My Conversations"
+   },
+   "msgOptions": {
+      "description": "Options",
+      "message": "My Settings"
+   },
+   "msgTitleOfApp": {
+      "description": "VkQuick by QtRoS",
+      "message": "VkQuick by QtRoS"
+   },
+   "msgVideo": {
+      "description": "Videos",
+      "message": "My Videos"
+   },
+   "msgFave": {
+      "description": "Favourite",
+      "message": "My favourites"
+   }
+
+}

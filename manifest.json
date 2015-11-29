@@ -1,0 +1,23 @@
+{
+	"manifest_version": 2,
+
+	"name": "__MSG_msgTitleOfApp__",
+	"description": "__MSG_msgDescr__",
+	"version": "2.0",
+	"default_locale": "en",
+
+	"browser_action": {
+		"default_icon": "img/icon.png",
+		"default_popup": "popup.html",
+		"default_title": "__MSG_msgDefTitle__"
+	},
+	"icons": {
+      "16": "img/icon16.png",
+      "48": "img/icon48.png",
+      "128": "img/icon128.png"
+    },
+    "background": {
+    	"scripts": ["vkquick_script.js"]
+  	},
+	"permissions": [ "tabs", "http://*/*", "contextMenus" ]
+}
